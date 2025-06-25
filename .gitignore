@@ -1,0 +1,32 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-version
+.idea/
+.vscode/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+pubspec.lock
+
+# Node.js
+node_modules/
+.env
+
+# MacOS
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Others
+*.lock
